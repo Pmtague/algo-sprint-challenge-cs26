@@ -124,7 +124,7 @@ class SortingRobot:
                 while self.can_move_left():
                     self.move_left()
 
-
+# An Attempt at a Different Way to Sort
 		# # Pick up first item and move right
         # # Turn on the light
         # while not self.light_is_on():
